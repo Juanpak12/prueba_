@@ -1,7 +1,4 @@
 // Login.tsx is a component that is imported into App.tsx
-
-
-import React from 'react';
 import Boton from '../boton/boton';
 import Logo from '../../img/Logo_PaperDoctor_Full.png'
 import './login.css';

@@ -1,4 +1,3 @@
-import React, { FC } from 'react';
 import './boton.css';
 
 type BotonProps = {
