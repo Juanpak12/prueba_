@@ -1,4 +1,5 @@
 import './boton.css';
+import { FC } from 'react';
 
 type BotonProps = {
   texto: string;
