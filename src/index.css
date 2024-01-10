@@ -30,7 +30,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('./assets/img/Fondo.jpg'); 
+  background-size: cover;
+  background-position: center; 
 }
+
 
 h1 {
   font-size: 3.2em;

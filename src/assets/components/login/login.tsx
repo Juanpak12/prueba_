@@ -8,7 +8,7 @@ import './login.css';
 
 export default function Login() {
   return (
-    <> 
+    <>
       <section className='login-container'>
         <img className='Logo-login' src={Logo} alt="Logo" />
         <input className='input-login' type="text" placeholder="Usuario" />
