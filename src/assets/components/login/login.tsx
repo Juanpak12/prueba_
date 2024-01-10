@@ -13,8 +13,8 @@ export default function Login() {
         <img className='Logo-login' src={Logo} alt="Logo" />
         <input className='input-login' type="text" placeholder="Usuario" />
         <input className='input-login' type="password" placeholder="Contraseña" />
-        <Boton className='btn-login' texto="Iniciar Sesion" />
-        <Boton className='btn-login' texto="registrate" />
+        <Boton texto="Iniciar Sesion" />
+        <Boton texto="registrate" />
         <a className='link-login' > ¿olvidaste tu contraseña? </a>
       </section>
     </>
